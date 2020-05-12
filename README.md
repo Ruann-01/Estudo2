@@ -1,2 +1,2 @@
-# Estudo2
- Estudo sobre Git
+# Estudo_Git_Python
+ Estudo sobre Git e Python
